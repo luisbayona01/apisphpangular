@@ -1,0 +1,57 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/api-imagenes/dist
+/api-imagenes/tmp
+/api-imagenes/out-tsc
+/api-imagenes/bazel-out
+
+# Node
+/api-imagenes/node_modules
+/api-imagenes/npm-debug.log
+/api-imagenes/yarn-error.log
+
+# IDEs and editors
+/api-imagenes/.idea/
+/api-imagenes/.project
+/api-imagenes/.classpath
+/api-imagenes/.c9/
+/api-imagenes/*.launch
+/api-imagenes/.settings/
+/api-imagenes/*.sublime-workspace
+
+# Visual Studio Code
+/api-imagenes/.vscode/*
+/api-imagenes/!.vscode/settings.json
+/api-imagenes/!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+/api-imagenes/.DS_Store
+/api-imagenes/Thumbs.db
+/apicrudaravel/node_modules
+/apicrudaravel/public/hot
+/apicrudaravel/public/storage
+/apicrudaravel/storage/*.key
+/apicrudaravel/vendor
+/apicrudaravel/.env
+/apicrudaravel/.env.backup
+/apicrudaravel/.phpunit.result.cache
+/apicrudaravel/docker-compose.override.yml
+/apicrudaravel/Homestead.json
+/apicrudaravel/Homestead.yaml
+/apicrudaravel/npm-debug.log
+/apicrudaravel/yarn-error.log
+/apicrudaravel/.idea
+/apicrudaravel/.vscode
