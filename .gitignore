@@ -14,9 +14,9 @@
 # IDEs and editors
 /api-imagenes/.idea/
 /api-imagenes/.project
-/api-imagenes/.classpath
+/api-imagenes/.classpath/
 /api-imagenes/.c9/
-/api-imagenes/*.launch
+/api-imagenes/*.launch/
 /api-imagenes/.settings/
 /api-imagenes/*.sublime-workspace
 
@@ -24,17 +24,17 @@
 /api-imagenes/.vscode/*
 /api-imagenes/!.vscode/settings.json
 /api-imagenes/!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
+/api-imagenes/!.vscode/launch.json
+/api-imagenes/!.vscode/extensions.json
+/api-imagenes/.history/*
 
 # Miscellaneous
-/.angular/cache
-.sass-cache/
-/connect.lock
-/coverage
-/libpeerconnection.log
-testem.log
+/api-imagenes/.angular/cache
+/api-imagenes/.sass-cache/
+/api-imagenes/connect.lock
+/api-imagenes/coverage
+/api-imagenes/libpeerconnection.log
+/api-imagenes/testem.log
 /typings
 
 # System files
